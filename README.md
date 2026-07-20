@@ -203,7 +203,7 @@ This project demonstrates the complete data analysis workflow, from cleaning raw
 
 ## 👤 Author
 
-**Nikhil KR**
+**Nikhil Uthaiah KR**
 
 Aspiring Data Analyst
 
